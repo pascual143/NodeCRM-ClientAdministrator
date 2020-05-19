@@ -4,7 +4,8 @@
   "description": "Aprendiendo a Crear REST APIs",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js"
+    "desarrollo": "nodemon ./index.js",
+    "start": "node ./index.js"
   },
   "author": "Juan De la torre",
   "license": "ISC",

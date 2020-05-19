@@ -31,5 +31,10 @@ app.use('/', routes());
 // carpeta publica
 app.use(express.static('uploads'));
 
-// puerto
-app.listen(5000);
+const host = proccess.env.HOST || '0.0.0.0';
+const port = proccess.env.PORT || 5050;
+
+// puerto  //iniciar app
+app.listen(port, host, () => {
+    console.log('el servidor esta funcionando')
+});

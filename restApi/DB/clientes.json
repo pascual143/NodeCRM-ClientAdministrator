@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5ebc380f6ddbcc7ab75a260c"},"nombre":"pascual","apellido":"vila","empresa":"unique","email":"correo@correo.com","telefono":"44904234234","__v":0}
+{"_id":{"$oid":"5ebc3abe7595d17b601726a0"},"nombre":"Kamila","apellido":"Ptazenska","empresa":"Airbnb","email":"ptkam@email.com","telefono":"44912344234","__v":0}
+{"_id":{"$oid":"5ebd63e2eba3aaa2096154c9"},"nombre":"javier","apellido":"vila","empresa":"unique","email":"javier@correo.com","telefono":"44904234234","__v":0}
+{"_id":{"$oid":"5ec2b6c13b5840c76252275e"},"nombre":"coco","apellido":"vila","empresa":"lossegura","email":"lsosegura@email.com","telefono":"123412341234","__v":0}
